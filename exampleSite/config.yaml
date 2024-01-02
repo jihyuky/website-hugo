@@ -125,12 +125,8 @@ params:
     enable: true
     intro: "Hello, I am"
     title: "Jihyuk"
-    subtitle: "I am hungry for experience"
+    subtitle: "I am a software developer"
     content: "A passionate software developer, I believe that every experience is an opportunity to learn."
-    image: /images/hero.svg
-    bottomImage:
-      enable: true
-    # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
@@ -143,9 +139,6 @@ params:
           url: https://github.com/jihyuky
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/jihyuk-yoon/
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
 
   # About
   about:
@@ -153,9 +146,9 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+        I am a student at the University of Toronto studying computer science. I am passionate about software development, and I constantly learn from others through working at a start-up, team projects, and other community involvements.
+        
+        I love traveling, going to the gym, 
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
