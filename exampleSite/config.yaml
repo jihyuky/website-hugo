@@ -230,57 +230,54 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+      - title: Benson
+        content: Java application for doctors and patients to get connected by the patient talking to an AI trained bot and the system recommending the patient doctors.
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://drive.google.com/file/d/15e1RN2wjtsaNpl23oyX-mzIISezhSCVC/view?usp=sharing
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Java"
+          - "Dialogflow"
+          - "MongoDB"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/Accusamus2065/CSC207-Project
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        badges:
-          - "Django"
-          - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: Chat App
+        content: An Android application built for chatting with your friends by using Firebase Firestore.
+        image: /images/projects/converter.png
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: How it looks
+          link: https://drive.google.com/file/d/1-BPAuADEbbgotEY6djKvpgTUdy4FKOkS/view?usp=sharing
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Java"
+          - "XML"
+          - "Firebase"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/jihyuky/Messages
+
+      - title: Board
+        content: A clean and simple site for posting one's opinion on various things. Multi-purpose site, as it could be used for brainstorming, leaving notes for each other, or leaving memos for yourself.
+        image: /images/projects/board.png
+        featured:
+          name: How it looks
+          link: https://drive.google.com/file/d/1S8M8oq0cDohxWhPBAmkvYRpqn-j6EJP4/view?usp=sharing
+        badges:
+          - "Javascript"
+          - "React"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/jihyuky/Board
 
   #Contact
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    content: Feel free to email me for any further questions!
+    email: jihyuky@gmail.com
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
