@@ -55,6 +55,7 @@ Menus:
 params:
   title: "JH"
   description: Text about my cool site
+  favicon: "/crown.png"
   # staticPath: ""  # The path to serve the static files from
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
@@ -75,7 +76,7 @@ params:
 
   theme:
     disableThemeToggle: true
-    defaultTheme: "light"
+    defaultTheme: "dark"
 
   font:
     fontSize: 1rem # default: 1rem
@@ -127,7 +128,7 @@ params:
     subtitle: "I am a software developer"
     content: "A passionate software developer, I believe that every experience is an opportunity to learn."
     # Todo: replace image
-    image: /images/hero.svg
+    image: /images/me2.png
     bottomImage:
       enable: true
     button:
@@ -292,11 +293,9 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/jihyuky
+      linkedin: https://linkedin.com/jihyuky
+      instagram: https://instagram.com/jihyukyoon
 
   # List pages like blogs and posts
   listPages:
