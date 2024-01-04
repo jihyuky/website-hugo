@@ -117,7 +117,7 @@ params:
       disableExperience: false
       disableEducation: false
       disableProjects: false
-      disableAchievements: false
+      disableAchievements: true
       disableContact: false
 
   # Hero
@@ -134,7 +134,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://drive.google.com/file/d/1cmCo4DzqhXRaJ4kq0AafFzv7hvyJm9KB/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
