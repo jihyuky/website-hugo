@@ -134,7 +134,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/1cmCo4DzqhXRaJ4kq0AafFzv7hvyJm9KB/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1A5uNOvrfHscMpIPqqOx5Fl589OOdOy7x/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
